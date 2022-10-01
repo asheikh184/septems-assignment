@@ -1,0 +1,2 @@
+command : "yarn install" to install node modules
+command : "yarn start" to run project over port 3000
